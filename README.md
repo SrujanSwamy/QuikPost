@@ -8,10 +8,10 @@ This website is a social media platform that resembles Twitter, developed using 
 <img src="https://github.com/Sagarshivalingappaathani/TweetVerse-Social-Media-App/blob/main/secreenshots/home.png">
 
 - User Profile Page
-<img src="https://github.com/Sagarshivalingappaathani/TweetVerse-Social-Media-App/blob/main/secreenshots/profile.png">
+<img src="https://github.com/SrujanSwamy/QuikPost/blob/main/Backend/Uploads/screenshots/Screenshot%202025-06-30%20215331.png">
 
 - Creating Post
-<img src="https://github.com/Sagarshivalingappaathani/TweetVerse-Social-Media-App/blob/main/secreenshots/createpost.png">
+<img src="https://github.com/SrujanSwamy/QuikPost/blob/main/Backend/Uploads/screenshots/Screenshot%202025-06-30%20215143.png">
 
 - ER Diagram of the database schema
 <img src="https://github.com/Sagarshivalingappaathani/TweetVerse-Social-Media-App/blob/main/secreenshots/ER.jpg">
