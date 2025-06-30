@@ -5,7 +5,7 @@ This website is a social media platform that resembles Twitter, developed using 
 
 ### Website Screenshots
 - Home Page 
-<img src="https://github.com/Sagarshivalingappaathani/TweetVerse-Social-Media-App/blob/main/secreenshots/home.png">
+<img src="https://github.com/SrujanSwamy/QuikPost/blob/main/Backend/Uploads/screenshots/Screenshot%202025-06-30%20215037.png">
 
 - User Profile Page
 <img src="https://github.com/SrujanSwamy/QuikPost/blob/main/Backend/Uploads/screenshots/Screenshot%202025-06-30%20215331.png">
