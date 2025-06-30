@@ -5,16 +5,16 @@ This website is a social media platform that resembles Twitter, developed using 
 
 ### Website Screenshots
 - Home Page 
-<img src="https://github.com/SrujanSwamy/QuikPost/blob/main/Backend/Uploads/screenshots/Screenshot%202025-06-30%20215037.png">
+<img src="https://github.com/SrujanSwamy/QuikPost/blob/main/Backend/Uploads/screenshots/HomePage.png">
 
 - User Profile Page
-<img src="https://github.com/SrujanSwamy/QuikPost/blob/main/Backend/Uploads/screenshots/Screenshot%202025-06-30%20215331.png">
+<img src="https://github.com/SrujanSwamy/QuikPost/blob/main/Backend/Uploads/screenshots/ProfilePage.png">
 
 - Creating Post
-<img src="https://github.com/SrujanSwamy/QuikPost/blob/main/Backend/Uploads/screenshots/Screenshot%202025-06-30%20215143.png">
+<img src="https://github.com/SrujanSwamy/QuikPost/blob/main/Backend/Uploads/screenshots/CreatePost.png">
 
 - ER Diagram of the database schema
-<img src="https://github.com/Sagarshivalingappaathani/TweetVerse-Social-Media-App/blob/main/secreenshots/ER.jpg">
+<img src="https://github.com/SrujanSwamy/QuikPost/blob/main/Backend/Uploads/screenshots/ERdiagram.png">
 
 
 Follow these steps to set up and run the project locally.
@@ -31,7 +31,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-    git clone https://github.com/CharanGowdaCM/QuikPost.git
+    git clone https://github.com/SrujanSwamy/QuikPost.git
   
 2. ```bash
    cd Backend   
